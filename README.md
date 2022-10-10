@@ -31,3 +31,6 @@ Identify the input , understand UI elements , craft first interaction , build co
 Menu-Driven Interface(MDI), Form Based Interface(FBI), and Natural Language Interface(NLI).
 •	After understanding user interface element, the next step is to craft the first interaction and build a conversion.
 •	The final step of chatbot design process is testing , which is done on mobile and websites to know how it’s  working.
+
+#outputs:
+Added along with other files.
